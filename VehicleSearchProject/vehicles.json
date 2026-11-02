@@ -1,0 +1,32 @@
+[
+    {
+        "registration": "PB10AB1234",
+        "owner": "Rahul",
+        "type": "Car"
+    },
+    {
+        "registration": "PB10CD2345",
+        "owner": "Aman",
+        "type": "Bike"
+    },
+    {
+        "registration": "PB10EF3456",
+        "owner": "Surabhi",
+        "type": "Scooter"
+    },
+    {
+        "registration": "PB10GH4567",
+        "owner": "Priya",
+        "type": "Car"
+    },
+    {
+        "registration": "PB10JK5678",
+        "owner": "Neha",
+        "type": "Bike"
+    },
+    {
+        "registration": "PB10LM6789",
+        "owner": "karan",
+        "type": "Car"
+    }
+]
